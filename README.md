@@ -104,6 +104,11 @@ Full write-up: [`docs/architecture.md`](docs/architecture.md)
     └── incident-runbook.md      Gateway outage runbook (from a real incident)
 ```
 
+## Related projects
+
+- [powerbi-procurement-analytics](https://github.com/Daimartinsk/powerbi-procurement-analytics) — the analytics layer on top of this Lakehouse: analytical views, DAX measures, semantic model and row-level security
+- [excel-vba-dynamic-request-form](https://github.com/Daimartinsk/excel-vba-dynamic-request-form) — dynamic Excel/VBA request form with Outlook submission
+
 ## Services I offer
 
 - Microsoft Fabric **capacity health checks** and CU/throttling reduction
