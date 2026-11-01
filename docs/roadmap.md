@@ -36,4 +36,3 @@ Ordered by effort vs. impact so the client gets relief first and structural fixe
 | VNet Data Gateway | ⏸ Designed, deferred by decision |
 | Star schema | 🔜 Next |
 
-<!-- TODO: adjust statuses to match exactly what is live today -->

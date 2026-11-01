@@ -81,7 +81,6 @@ Full write-up: [`docs/architecture.md`](docs/architecture.md)
 | Delta maintenance | Fewer small files, faster scans |
 | Single orchestrating pipeline | Predictable load order, fewer overlapping jobs, one place to monitor |
 
-<!-- TODO: if you have before/after numbers from the Capacity Metrics app (CU %, refresh duration), put them here. Real numbers are what convinces clients. -->
 
 ## Repository map
 
