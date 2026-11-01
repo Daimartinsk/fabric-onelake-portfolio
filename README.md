@@ -112,4 +112,4 @@ Full write-up: [`docs/architecture.md`](docs/architecture.md)
 - **Gateway** setup and troubleshooting (on-prem and VNet)
 - Power BI **semantic model** tuning (Import / Direct Lake, RLS, star schema)
 
-📫 **Contact:** _add your email / LinkedIn here_
+📫 **Contact: daianamartinsk@gmail.com / LinkedIn linkedin.com/in/daiana-martins-37b636181
