@@ -46,4 +46,4 @@ Detalhes técnicos em [`docs/`](docs/), código em [`notebooks/`](notebooks/) e 
 - Configuração e troubleshooting de **gateways** (on-premises e VNet)
 - Otimização de **modelos semânticos** Power BI (Import / Direct Lake, RLS, star schema)
 
-📫 **Contacto: daianamartinsk@gmail.com / LinkedIn linkedin.com/in/daiana-martins-37b636181
+📫 **Contacto:** daianamartinsk@gmail.com · [LinkedIn](https://www.linkedin.com/in/daiana-martins-37b636181)
