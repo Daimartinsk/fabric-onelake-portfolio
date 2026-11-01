@@ -43,6 +43,10 @@ Detalhes técnicos em [`docs/`](docs/), código em [`notebooks/`](notebooks/) e 
 - [powerbi-procurement-analytics](https://github.com/Daimartinsk/powerbi-procurement-analytics) — a camada analítica sobre este Lakehouse: views analíticas, medidas DAX, modelo semântico e RLS
 - [excel-vba-dynamic-request-form](https://github.com/Daimartinsk/excel-vba-dynamic-request-form) — formulário dinâmico em Excel/VBA com submissão pelo Outlook
 
+## Certificação
+
+Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) — em preparação.
+
 ## Serviços
 
 - **Health check de capacidade** Fabric e redução de CUs/throttling
